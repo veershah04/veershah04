@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Veer Shah</h1>
 <h3 align="center">AI/ML Enthusiast and Backend Developer</h3>
-<img align="right alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
+<!-- <img align="right alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif"> -->
 
 
 - 📫 How to reach me **sveershah04@gmail.com**
