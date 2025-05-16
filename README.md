@@ -1,6 +1,8 @@
 # <div align="center">👨‍💻 Veer Shah</div>
 <div align="center">
-  <strong>AI/ML Enthusiast & Backend Developer</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Backend+Developer;Computer+Vision+Enthusiast;Deep+Learning+Practitioner" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
