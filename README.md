@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Narayan_Nagar,_Bhayanader,_Thane-1A73E8?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/-Bhairav_Complex,_Bhayanader,_Thane-1A73E8?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/-+91--7777032752-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </div>
 <br>
